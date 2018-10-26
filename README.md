@@ -1,4 +1,14 @@
-Halló Pallí!
+skref til þess að keyra verkefnið
+1. búa til nítt repo,
+2. klóna það með skipuninni "git clone https://github.com/Pas222/Hopverkefni1"
+3. npm install
+4. npm run dev
+
+
+
+
+
+
 # Hópverkefni 1
 
 Verkefnið felst í því að smíða vef eftir forskrift.
