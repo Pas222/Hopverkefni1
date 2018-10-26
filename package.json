@@ -8,7 +8,7 @@
     "sass": "node-sass styles.scss styles.css",
     "dev": "npm-run-all --parallel sass browser-sync",
     "lint-css": "stylelint styles.css --syntax css",
-  "lint-scss": "stylelint styles.scss --syntax scss"
+    "lint-scss": "stylelint styles.scss --syntax scss"
   },
   "repository": {
     "type": "git",
