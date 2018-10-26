@@ -57,9 +57,30 @@ h3 {
     font-size: 1.30em;
 }
 
-.kort {
+.kort_row {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
+
+.kort_col {
+    width: 100%;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    margin-right: 20px;
+}
+
+.kort_sec {
+    max-width: 100%;
+}
+
+.kort_a {
+    line-height: 30px;
+    font-family: Arial, sans-serif
+    margin-top 30px;
 }
 
 .prod_img {
