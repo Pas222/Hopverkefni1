@@ -28,6 +28,6 @@
     "stylelint-config-primer": "^2.2.11"
   },
   "dependencies": {
-    "sass-watch": "^0.1.0"
+    "sass-watch": "^0.1.0",
   }
 }
